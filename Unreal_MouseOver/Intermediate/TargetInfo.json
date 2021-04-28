@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Unreal_MouseOver",
+			"Path": "/Users/bolstadm/Documents/Unreal Projects/Unreal_MouseOver/Unreal_MouseOver/Source/Unreal_MouseOver.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Unreal_MouseOverEditor",
+			"Path": "/Users/bolstadm/Documents/Unreal Projects/Unreal_MouseOver/Unreal_MouseOver/Source/Unreal_MouseOverEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

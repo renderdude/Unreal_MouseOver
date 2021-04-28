@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "HHMI_Treadmill",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Mark Bolstad",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "HHMI_Treadmill",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

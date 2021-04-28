@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"/Users/bolstadm/Documents/Unreal Projects/Unreal_MouseOver/Unreal_MouseOver/Source/Unreal_MouseOver/Unreal_MouseOver.Build.cs",
+		"/Users/bolstadm/Documents/Unreal Projects/Unreal_MouseOver/Unreal_MouseOver/Plugins/HHMI_Treadmill/Source/HHMI_Treadmill/HHMI_Treadmill.Build.cs",
+		"/Users/bolstadm/Documents/Unreal Projects/Unreal_MouseOver/Unreal_MouseOver/Source/Unreal_MouseOver.Target.cs",
+		"/Users/bolstadm/Documents/Unreal Projects/Unreal_MouseOver/Unreal_MouseOver/Source/Unreal_MouseOverEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.4"
+}
